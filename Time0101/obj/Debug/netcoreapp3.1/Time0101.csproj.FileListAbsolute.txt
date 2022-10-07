@@ -1,0 +1,14 @@
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.exe
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.deps.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.runtimeconfig.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.runtimeconfig.dev.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\bin\Debug\netcoreapp3.1\Time0101.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.csproj.AssemblyReference.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.AssemblyInfoInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.AssemblyInfo.cs
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.csproj.CoreCompileInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Time0101\Time0101\obj\Debug\netcoreapp3.1\Time0101.genruntimeconfig.cache
